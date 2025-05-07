@@ -1,0 +1,64 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+
+ li {
+	display: inline-block;
+	border-right: 2px solid black;
+	
+}
+a {
+    display: block;
+    padding: 6px;
+    background-color: #dddddd;
+}
+.top_menu{
+	display: inline-block;
+}
+#tra{
+	background: transparent;
+}
+#header1
+{
+border-bottom:0.5px solid white; left:0px; top: 0px; height:80px; width: 1347px; position: fixed;background-color: #DEFFAA;}
+#search
+{
+border-bottom:0.5px solid white; left:0px; top: 80px; height:40px; width: 1347px; position: fixed;background-color: black;
+}
+#logo{
+	top:10px;margin-left: -40px;height: 50px;width: 250px;position: absolute;text-shadow: 0.5px 3px teal;color: white;
+}
+#main{
+	border:0px solid #000000
+; background:url(images/ .png); left:0px; top: 0px; height:4000px; width: 1347px; position: absolute;border-radius: 50px;
+}
+#section{
+	border:0px solid #000000
+ background:url(images/ .png); left:0px; top: 120px; height:550px; width: 1240px; position: absolute; align:center;border-radius: 50px;
+}
+#section1{
+	border:1px solid #000000
+; background:url(images/ .png); left:0px; top: 800px; height:950px; width: 1345px; position: absolute;border-radius: 50px;
+}
+#section2{
+	border:1px solid #000000; background:url(images/ .png); left:0px; top: 1870px; height:950px; width: 1345px; position: absolute; border-radius: 50px;
+}
+#section3{
+	border:1px solid #000000; background:url(images/ .png); left:0px; top: 2940px; height:950px; width: 1345px; position: absolute; border-radius: 50px;
+}
+#item{
+	border:1px solid #000000; height:300px; width: 250px; position: absolute;border-radius: 3px;
+}
+#item1{
+	border:1px solid #000000; height:65px; width: 250px; position: absolute; border-radius: 5px;
+}
+#links{
+height:50px; width:60px;
+}
+option{
+background-color: black;
+}
+h1{
+text-shadow: 2px 2px purple;
+}
